@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "FlineDev",
+  "description": "Claude Code plugins by FlineDev",
+  "owner": {
+    "name": "Cihat Gündüz",
+    "url": "https://fline.dev"
+  },
+  "plugins": [
+    {
+      "name": "custom-statusline",
+      "description": "Real-time usage monitoring statusline showing context window, 5h session, and 7d weekly limits",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/FlineDev/CustomStatusline.git"
+      },
+      "homepage": "https://github.com/FlineDev/CustomStatusline"
+    }
+  ]
+}
