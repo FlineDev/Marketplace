@@ -4,8 +4,8 @@ Claude Code plugin marketplace by [FlineDev (Cihat Gündüz)](https://fline.dev)
 
 ## Installation
 
-```bash
-/plugin marketplace add https://github.com/FlineDev/Marketplace
+```
+/plugin marketplace add FlineDev/Marketplace
 ```
 
 ## Available Plugins
@@ -19,5 +19,5 @@ Claude Code plugin marketplace by [FlineDev (Cihat Gündüz)](https://fline.dev)
 After adding the marketplace, install any plugin with:
 
 ```
-/plugin install custom-statusline@FlineDev
+/plugin install custom-statusline
 ```
