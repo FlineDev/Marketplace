@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "FlineDev",
-  "description": "Claude Code plugins by FlineDev",
+  "description": "Claude Code plugins by FlineDev (Cihat Gündüz)",
   "owner": {
     "name": "Cihat Gündüz",
     "url": "https://fline.dev"

@@ -1,6 +1,6 @@
 # FlineDev Marketplace
 
-Claude Code plugin marketplace by [FlineDev](https://fline.dev).
+Claude Code plugin marketplace by [FlineDev (Cihat Gündüz)](https://fline.dev).
 
 ## Installation
 
