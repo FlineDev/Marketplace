@@ -16,6 +16,16 @@
         "url": "https://github.com/FlineDev/CustomStatusline.git"
       },
       "homepage": "https://github.com/FlineDev/CustomStatusline"
+    },
+    {
+      "name": "plankit",
+      "description": "Ideas → Roadmap → Steps: 3-level project planning for indie developers",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/FlineDev/PlanKit.git"
+      },
+      "homepage": "https://github.com/FlineDev/PlanKit"
     }
   ]
 }
