@@ -26,6 +26,16 @@
         "url": "https://github.com/FlineDev/PlanKit.git"
       },
       "homepage": "https://github.com/FlineDev/PlanKit"
+    },
+    {
+      "name": "recall",
+      "description": "Never lose context in Claude Code — automatic recovery after compaction and manual session recall",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/FlineDev/Recall.git"
+      },
+      "homepage": "https://github.com/FlineDev/Recall"
     }
   ]
 }
