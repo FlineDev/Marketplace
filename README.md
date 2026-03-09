@@ -1,4 +1,4 @@
-# FlineDev Marketplace
+# Plugin Marketplace
 
 A curated collection of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugins by [Cihat Gündüz](https://fline.dev).
 
@@ -13,7 +13,7 @@ Add this marketplace to Claude Code:
 Then install any plugin with the commands shown below.
 
 > [!TIP]
-> **Automatic Updates:** By default, third-party plugins don't auto-update. To receive new features and fixes automatically:
+> **Automatic Updates:** By default, third-party plugins don't auto-update. To receive new features and fixes:
 > 1. Type `/plugin` and press Enter
 > 2. Switch to the **Marketplaces** tab
 > 3. Navigate to **FlineDev** and press Enter
