@@ -21,7 +21,7 @@ Then install any plugin with the commands shown below.
 
 ## Plugins
 
-### 🧠 [Recall](https://github.com/FlineDev/Recall)
+### 🧠 [Recall →](https://github.com/FlineDev/Recall)
 
 Get the most out of Claude Code's 200K context window. When context runs out, start a new session and restore your full conversation — every user message, every assistant response, every decision — in seconds.
 
@@ -29,7 +29,7 @@ Get the most out of Claude Code's 200K context window. When context runs out, st
 /plugin install recall
 ```
 
-### 📋 [PlanKit](https://github.com/FlineDev/PlanKit)
+### 📋 [PlanKit →](https://github.com/FlineDev/PlanKit)
 
 Ideas → Roadmap → Steps: a markdown-based planning system that lives right in your project repository. Capture ideas, prioritize them into versioned roadmaps, and break features down into actionable steps — all as markdown files you can commit alongside your code.
 
@@ -37,7 +37,7 @@ Ideas → Roadmap → Steps: a markdown-based planning system that lives right i
 /plugin install plan-kit
 ```
 
-### 📊 [CustomStatusline](https://github.com/FlineDev/CustomStatusline)
+### 📊 [CustomStatusline →](https://github.com/FlineDev/CustomStatusline)
 
 Real-time usage monitoring in your Claude Code status bar:
 
