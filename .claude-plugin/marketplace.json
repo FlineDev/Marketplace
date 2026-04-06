@@ -36,6 +36,16 @@
         "url": "https://github.com/FlineDev/Recall.git"
       },
       "homepage": "https://github.com/FlineDev/Recall"
+    },
+    {
+      "name": "tandemkit",
+      "description": "Claude plans and builds, Codex reviews — autonomous multi-session orchestration that converges on quality",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/FlineDev/TandemKit.git"
+      },
+      "homepage": "https://github.com/FlineDev/TandemKit"
     }
   ]
 }

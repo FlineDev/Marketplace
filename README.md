@@ -37,6 +37,14 @@ Ideas → Roadmap → Steps: a markdown-based planning system that lives right i
 /plugin install plan-kit
 ```
 
+### 🔄 [TandemKit →](https://github.com/FlineDev/TandemKit)
+
+Claude plans and builds, Codex reviews — autonomous multi-session orchestration that converges on quality. Three sessions (Planner, Generator, Evaluator) work in tandem: Claude executes, Codex verifies, and they iterate until both agree the work meets spec.
+
+```
+/plugin install tandemkit
+```
+
 ### 📊 [CustomStatusline →](https://github.com/FlineDev/CustomStatusline)
 
 Real-time usage monitoring in your Claude Code status bar:
