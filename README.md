@@ -37,9 +37,9 @@ Ideas → Roadmap → Steps: a markdown-based planning system that lives right i
 /plugin install plan-kit
 ```
 
-### 🔄 [TandemKit →](https://github.com/FlineDev/TandemKit)
+### 💬 [TandemKit →](https://github.com/FlineDev/TandemKit)
 
-Describe your goal, approve the spec, then step away — Claude and Codex loop together until it's right. Three sessions (Planner, Generator, Evaluator): in the Planner and Evaluator, Claude launches Codex as a background task and the two models independently investigate and converge on a result. You are only needed at two points: spec approval and final review.
+Two AI models working in tandem: Claude and Codex independently investigate and evaluate, then converge on a verdict. You only touch it twice — spec approval and final review.
 
 ```
 /plugin install tandemkit
