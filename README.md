@@ -45,10 +45,10 @@ Two AI models working in tandem: Claude and Codex independently investigate and 
 
 ### 📋 [PlanKit →](https://github.com/FlineDev/PlanKit)
 
-Ideas → Roadmap → Steps: a markdown-based planning system that lives right in your project repository. Capture ideas, prioritize them into versioned roadmaps, and break features down into actionable steps — all as markdown files you can commit alongside your code.
+Ideas → Roadmap → Missions: a markdown-based planning system that lives right in your project repository. Capture ideas, prioritize them into versioned roadmaps, and break features down into session-sized missions — all as markdown files you can commit alongside your code.
 
 ```
-/plugin install plan-kit
+/plugin install plankit
 ```
 
 ### 🧠 [Recall →](https://github.com/FlineDev/Recall)

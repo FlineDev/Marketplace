@@ -19,8 +19,8 @@
       "homepage": "https://github.com/FlineDev/CustomStatusline"
     },
     {
-      "name": "plan-kit",
-      "description": "Ideas → Roadmap → Steps: 3-level project planning for indie developers",
+      "name": "plankit",
+      "description": "Ideas → Roadmap → Missions: 3-level project planning for indie developers",
       "category": "productivity",
       "source": {
         "source": "url",
@@ -40,7 +40,7 @@
     },
     {
       "name": "tandemkit",
-      "description": "Claude plans and builds, Codex reviews — autonomous multi-session orchestration that converges on quality",
+      "description": "Claude + Codex plan, Claude builds, Claude + Codex verify — autonomous multi-session orchestration that converges on quality",
       "category": "productivity",
       "source": {
         "source": "url",
