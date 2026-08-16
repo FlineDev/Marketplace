@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "custom-statusline",
-      "description": "Real-time usage monitoring statusline showing context window, 5h session, and 7d weekly limits",
+      "description": "Statusline showing context, 5h and 7d limits, model and repository - all from Claude Code's own data, no network calls",
       "category": "productivity",
       "source": {
         "source": "url",
